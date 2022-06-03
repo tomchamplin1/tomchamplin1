@@ -4,4 +4,4 @@
 
 ### 📍 Austin, TX
 ### 🔗 [Web3 projects](https://replit.com/@TomChamplin)
-### 💻 [Sitecheer.com](sitecheer.com)
+### 💻 [Sitecheer.com](www.sitecheer.com)
